@@ -43,3 +43,4 @@ await naturalLanguageUnderstanding.analyze(analyzeParams)
     console.log('error:', err);
   });
 return res;
+}
